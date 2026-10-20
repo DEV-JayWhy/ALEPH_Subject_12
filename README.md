@@ -23,7 +23,7 @@
 GitHub `main` → Vercel Production 자동 배포. Framework Preset은 정적 HTML 사이트(Other)입니다.
 
 - 배포: https://aleph-subject-12.vercel.app (기존 https://aleph-subject-a.vercel.app 주소도 유지)
-- 소스: https://github.com/DEV-JayWhy/ALEPH_Subject_A
+- 소스: https://github.com/DEV-JayWhy/ALEPH_Subject_12
 
 ## 연락처
 
