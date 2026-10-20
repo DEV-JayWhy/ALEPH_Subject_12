@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-20",
   "attendance": {
     "source": "내 출석 기록 (2026-10-15 사용자 제공)",
     "training_days": 43,
@@ -8,15 +8,16 @@
     "absent": 0,
     "pending": 1,
     "attendance_rate_percent_reported": 97.7,
-    "caution": "2026-10-15 당일 1일 미확정; 과정 전체 최종 출석률 아님"
+    "caution": "2026-10-15 당일 1일 미확정; 과정 전체 최종 출석률 아님",
+    "as_of": "2026-10-15"
   },
   "ritual": {
-    "source": "ritual-history-2026-10-15.json 날짜별 집계",
+    "source": "ritual-history-2026-10-20.json 날짜별 집계 (개인 일지 원문은 공개하지 않음)",
     "first_date": "2026-08-11",
-    "last_date": "2026-10-15",
-    "recorded_days": 42,
-    "morning_records": 42,
-    "closing_records": 39
+    "last_date": "2026-10-20",
+    "recorded_days": 45,
+    "morning_records": 45,
+    "closing_records": 42
   },
   "assignments": {
     "source": "전체 제출현황 아직 받지 못함",
@@ -25,5 +26,5 @@
     "submission_total": null
   },
   "approved_paragraphs": [],
-  "notice": "기록이 없는 날을 결석으로 간주하지 않으며 제출률을 추정하지 않습니다. 현재 숫자는 교육 과정 종료 전 임시 집계입니다."
+  "notice": "리추얼 기록은 공식 출결 자료가 아닙니다. 출석률은 2026-10-15 제공 자료 기준이고 2026-10-20 리추얼 건수만 업데이트했습니다. 기록이 없는 날을 결석으로 간주하지 않으며 제출률을 추정하지 않습니다."
 }
