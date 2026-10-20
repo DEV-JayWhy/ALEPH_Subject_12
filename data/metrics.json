@@ -1,15 +1,15 @@
 {
   "as_of": "2026-10-20",
   "attendance": {
-    "source": "내 출석 기록 (2026-10-15 사용자 제공)",
-    "training_days": 43,
-    "enrolled_days": 43,
-    "present": 42,
+    "source": "내 출석 기록 (2026-10-20 사용자 제공)",
+    "training_days": 46,
+    "enrolled_days": 46,
+    "present": 45,
     "absent": 0,
     "pending": 1,
-    "attendance_rate_percent_reported": 97.7,
-    "caution": "2026-10-15 당일 1일 미확정; 과정 전체 최종 출석률 아님",
-    "as_of": "2026-10-15"
+    "attendance_rate_percent_reported": 97.8,
+    "caution": "2026-10-20 당일 1일 미확정(09:05 입실); 확정 후 출석률 변동 가능. 13주 전체 최종 출석률 아님",
+    "as_of": "2026-10-20"
   },
   "ritual": {
     "source": "ritual-history-2026-10-20.json 날짜별 집계 (개인 일지 원문은 공개하지 않음)",
@@ -26,5 +26,5 @@
     "submission_total": null
   },
   "approved_paragraphs": [],
-  "notice": "리추얼 기록은 공식 출결 자료가 아닙니다. 출석률은 2026-10-15 제공 자료 기준이고 2026-10-20 리추얼 건수만 업데이트했습니다. 기록이 없는 날을 결석으로 간주하지 않으며 제출률을 추정하지 않습니다."
+  "notice": "공식 출석률 97.8%는 2026-10-20 제공 출석부의 45/46 기준(당일 미확정 1일 포함)입니다. 리추얼 45/42건도 10월 20일까지의 별도 집계입니다. 기록이 없는 날을 결석으로 간주하지 않고 제출률을 추정하지 않습니다."
 }
