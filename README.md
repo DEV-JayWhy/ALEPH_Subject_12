@@ -1,6 +1,6 @@
-# ALEPH Subject A — 개인 포트폴리오
+# ALEPH Subject 12 — 개인 포트폴리오
 
-웹사이트: https://aleph-subject-a.vercel.app
+웹사이트: https://aleph-subject-12.vercel.app
 
 실제 금융·관제 웹개발 경력과 ALEPH 과정의 학습 기록, 보안 연구 대표작, 지원 문서를 정리한 개인 포트폴리오입니다.
 
@@ -22,7 +22,7 @@
 
 GitHub `main` → Vercel Production 자동 배포. Framework Preset은 정적 HTML 사이트(Other)입니다.
 
-- 배포: https://aleph-subject-a.vercel.app
+- 배포: https://aleph-subject-12.vercel.app (기존 https://aleph-subject-a.vercel.app 주소도 유지)
 - 소스: https://github.com/DEV-JayWhy/ALEPH_Subject_A
 
 ## 연락처
